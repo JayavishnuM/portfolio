@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "Wismo",
     "subtitle": "Digital Dream.",
-    "description": "Wismo is a web development company that we are specialized in creating a custom websites and web application for businesses. With a team of young enthusiastic people and with our years of experience, our aim to create unique, functional, and user-friendly websites that reflects the business's personality. We are using various programming languages and frameworks, including HTML, CSS, JavaScript, React, Angular and Node.js, to ensure fast, secure, and optimized performance.",
+    "description": "Wismo is a web development company that we are specialized in creating a custom websites and web application for businesses. With a team of young enthusiastic people and with our years of experience, our aim to create unique, functional, and user-friendly websites that reflects the business's personality.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Contact Us",
